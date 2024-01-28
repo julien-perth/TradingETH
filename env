@@ -1,0 +1,5 @@
+USER_KEY='..'
+SECRET_KEY='..'
+SOURCE_ADDRESS="sending_adress"
+DESTINATION_ADDRESS="adress_you_want_to_receive_emails"
+PASSWORD=".."
