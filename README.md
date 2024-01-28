@@ -21,3 +21,11 @@ Pour tester ce projet il faut avoir sqlite3 et python3 d'installés
 > pip3 install requirements.txt
 
 ````
+
+## Lancer le projet
+Après avoir ajouter/ personnaliser les divers settings vous pouvez rouler le projet :
+
+````
+> python3 Main.py
+
+````
